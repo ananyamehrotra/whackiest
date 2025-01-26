@@ -1,5 +1,7 @@
 # whackiest
 Coding club of my college conducts an yearly hackathon, me and my team built a nationwide healthcare records mangement system
+I CREATED THE FRONTEND 
+I AM WORKING ON MY BACKEND SKILLS
 # Nationwide-Health-Record-Management-System
 A prototype webpage of an idea that contains records of the entire nation
 For the wHACKiest hackathon 2024, our team's idea revolved around making health history a priority. There have been many more cases of death due to inaccurate health than due to insufficient healthcare. Our idea aims to reduce that by having the patient history securely displayed on the website.
